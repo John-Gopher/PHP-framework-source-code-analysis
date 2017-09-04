@@ -1,4 +1,4 @@
-###                                       php文件锁(转)
+###                                       php文件锁
 
 bool flock ( int handle, int operation [, int &wouldblock] );
 flock() 操作的 handle 必须是一个已经打开的文件指针。operation 可以是以下值之一：
